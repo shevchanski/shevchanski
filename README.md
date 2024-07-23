@@ -20,9 +20,9 @@ I am a passionate person who likes coding and get too excited with solving diffe
 
 ### 📊 My GitHub Statistic
 
-<div style="display:flex;gap:10px;">
+<div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://github-readme-stats-dorkits-projects.vercel.app/api?username=shevchanski&show_icons=true">
-    <img style="align-self: stretch;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevchanski&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevchanski&layout=compact">
 </div>
 
 <picture>
