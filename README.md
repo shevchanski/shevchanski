@@ -20,10 +20,8 @@ I am a passionate person who likes coding and get too excited with solving diffe
 
 ### 📊 My GitHub Statistic
 
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://github-readme-stats-dorkits-projects.vercel.app/api?username=shevchanski&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevchanski&layout=compact">
-</div>
+[![Oleksii's GitHub stats](https://github-readme-stats-dorkits-projects.vercel.app/api?username=shevchanski&show_icons=true)](https://github.com/shevchanski)
+[![Top languages](https://github-readme-stats-dorkits-projects.vercel.app/api/top-langs/?username=shevchanski&layout=compact&hide=ejs,shell)](https://github.com/shevchanski)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shevchanski/shevchanski/output/github-contribution-grid-snake-dark.svg" />
