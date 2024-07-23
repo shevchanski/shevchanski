@@ -4,15 +4,15 @@ I am a passionate person who likes coding and get too excited with solving diffe
 
 ## 🧐 About me
 
-- I'm currently working on Backend technologies
-- I'm learning - **Jest**, **TDD**
-- Reach me at: [oleksiishevchenko2001@gmail.com](mailto:oleksiishevchenko2001@gmail.com)
-- Passionate runner 🏃‍♂️‍➡️
+- 🌱 I'm currently working on Backend technologies
+- 👀 I'm learning - **Jest**, **TDD**
+- 📧 Reach me at: [oleksiishevchenko2001@gmail.com](mailto:oleksiishevchenko2001@gmail.com)
+- 🎒 Hobbies: *running*🏃‍♂️‍➡️, *swimming*🏊‍♂️, *gym*🏋️
 
 ### 🎓 Education
 
-1. Information technologies of Design | Computer Science
-2. Service of computers & networks | System Administrating
+1. Information technologies of Design | Computer Science - _Kharkiv Aviation Institute_
+2. Service of computers & networks | System Administrating - _Poltava Politechnic Collage_
 
 ### 🧰 Language and Tools
 
