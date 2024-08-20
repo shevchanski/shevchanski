@@ -5,7 +5,7 @@ I am a passionate person who likes coding and get too excited with solving diffe
 ## 🧐 About me
 
 - 🌱 I'm currently working on Backend technologies
-- 👀 I'm learning - **Jest**, **TDD**
+- 👀 I'm learning - **AWS Clound Technologies**, **TDD** & **Jest** itself
 - 📧 Reach me at: [oleksiishevchenko2001@gmail.com](mailto:oleksiishevchenko2001@gmail.com)
 - 🎒 Hobbies: *running*🏃‍♂️‍➡️, *swimming*🏊‍♂️, *gym*🏋️
 
