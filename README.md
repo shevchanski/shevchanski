@@ -4,9 +4,11 @@ I am a passionate person who likes coding and get too excited with solving diffe
 
 ## 🧐 About me
 
-- 🌱 I'm currently working on Backend technologies
-- 👀 I'm learning - **AWS Clound Technologies**, **TDD** & **Jest** itself
-- 📧 Reach me at: [oleksiishevchenko2001@gmail.com](mailto:oleksiishevchenko2001@gmail.com)
+- 🌱 I'm currently developing in the sphere of Backend technologies
+- 👀 I'm learning - **AWS Clound Technologies _(Coursera)_**, **Refactoring _(refactoring.guru)_**
+- 📧 Reach me at:
+  - [oleksiishevchenko2001@gmail.com](mailto:oleksiishevchenko2001@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/shevchanski/)
 - 🎒 Hobbies: *running*🏃‍♂️‍➡️, *swimming*🏊‍♂️, *gym*🏋️
 
 ### 🎓 Education
@@ -16,7 +18,7 @@ I am a passionate person who likes coding and get too excited with solving diffe
 
 ### 🧰 Language and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs,git,jest,mongodb,aws,redis,neovim,postman,notion,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs,git,jest,mongodb,aws,redis,docker,neovim,postman,notion,npm)](https://skillicons.dev)
 
 ### 📊 My GitHub Statistic
 
